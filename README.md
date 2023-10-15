@@ -20,7 +20,6 @@ I'm a solution developer who uses vision AI to develop!.<br>
 - A researcher at Hankuk University of Foreign Studies on Embedded Systems Deep Learning [21.07-22.04]
 - ASK 2022 Implementation of Yolov3-tiny Object Detection Deep Learning Model over RISC-V Virtual Platform
 - NLP Developer of Capstone Project in Hankuk University of Foreign Studies [22.03 ~ 22.06]
-- Danvi Smart Factory Team Employee (Deep Learning Development) [22.06 - 22.12]
 - JJAndCompanies R&D Team Assistant Engineer (AI Vision Development) [23.01 -] 
 
 ## 🏆 Awards
