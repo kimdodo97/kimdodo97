@@ -10,6 +10,8 @@ I'm a solution developer who uses vision AI to develop!.<br>
 ## 📫 How to reach me
 <a href="mailto:jungms4536@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/dododo_bird/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://velog.io/@kimdodo" target="_blank"><img src="https://velog-readme-stats.vercel.app/api/badge?name=kimdodo"/></a>
+
 
 
  ## 🔭 I’m currently working on ...
@@ -39,8 +41,7 @@ I'm a solution developer who uses vision AI to develop!.<br>
       </p>
      <li>Beginning</li>
       <p>
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScripton&logoColor=white"/>
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
       </p>
