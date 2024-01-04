@@ -41,9 +41,9 @@ I'm a solution developer who uses vision AI to develop!.<br>
       </p>
      <li>Beginning</li>
       <p>
-        
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScripton&logoColor=white"/>
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+        <img src = "https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat"/>
       </p>
     </ul>
     <img src="https://blog.kakaocdn.net/dn/dAEQye/btqDOkONLE0/5TK0HtrButojrSUVadJRP0/img.jpg" height="1" width="400">
