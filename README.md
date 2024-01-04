@@ -41,7 +41,7 @@ I'm a solution developer who uses vision AI to develop!.<br>
       </p>
      <li>Beginning</li>
       <p>
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+        
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScripton&logoColor=white"/>
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
       </p>
@@ -51,6 +51,7 @@ I'm a solution developer who uses vision AI to develop!.<br>
   <td valign="top" width="50%">
     <h3>Stack</h3>
     <p>
+     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
      <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/><br>
      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
