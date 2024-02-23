@@ -68,10 +68,10 @@ I'm a solution developer who uses vision AI to develop!.<br>
 <table width="100%">
  <tr>
   <td valign="top" width="50%">
-    <img src="https://github-readme-stats.vercel.app/api?username=doyoungkim97&show_icons=true&theme=transparent" width="400">
+    <img src="https://github-readme-stats.vercel.app/api?username=kimdodo97&show_icons=true&theme=transparent" width="400">
   </td>
   <td valign="top" width="50%">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doyoungkim97&hide_border=true&layout=compact" width="400">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimdodo97&hide_border=true&layout=compact" width="400">
   </td>
  </tr>
 </table>  
