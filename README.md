@@ -10,8 +10,8 @@ I'm a solution developer who uses vision AI to develop!.<br>
 ## 📫 How to reach me
 <a href="mailto:jungms4536@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/dododo_bird/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://velog.io/@kimdodo" target="_blank"><img src="https://velog-readme-stats.vercel.app/api/badge?name=kimdodo"/></a>
-
+<a href="https://developer-dodo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-ff822c?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/%EB%8F%84%EC%98%81-%EA%B9%80-847461245/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 
 
  ## 🔭 I’m currently working on ...
