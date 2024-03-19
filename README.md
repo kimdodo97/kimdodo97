@@ -5,7 +5,7 @@ Hi there! Welcome to my Github!<br>
 I'm a solution developer who uses vision AI to develop!.<br>
 
 ## 🎓 Education
-- Hankuk University of Foreign Studies,Computer and Electronic Systems Engineering, undergraduate
+- Hankuk University of Foreign Studies,Computer and Electronic Systems Engineering, graduate
 
 ## 📫 How to reach me
 <a href="mailto:jungms4536@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
