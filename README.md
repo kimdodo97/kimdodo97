@@ -29,49 +29,34 @@ I'm a solution developer who uses vision AI to develop!.<br>
 - 2022 Capstone Design in Hankuk University of Foreign Studies 1st Place (31 teams)
 
 ## 🛠 Skills
-<center>
- <table width="100%">
- <tr width="100%">
-  <td valign="top" width="50%">
-    <h3>Language</h3>
-    <ul>
-     <li>Advanced</li>
-      <p>
-       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
-      </p>
-     <li>Beginning</li>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScripton&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-        <img src = "https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat"/>
-      </p>
-    </ul>
-    <img src="https://blog.kakaocdn.net/dn/dAEQye/btqDOkONLE0/5TK0HtrButojrSUVadJRP0/img.jpg" height="1" width="400">
-  </td>
-  <td valign="top" width="50%">
-    <h3>Stack</h3>
-    <p>
-     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-     <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
-     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/><br>
-     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/><br>
-     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/><br>
-     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><br>
-     <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/>
-    </p>
-    <img src="https://blog.kakaocdn.net/dn/dAEQye/btqDOkONLE0/5TK0HtrButojrSUVadJRP0/img.jpg" height="1" width="400">
-  </td></tr></table>
-<center>  
- 
-## 😁 Github Stats  
+ <h3>Language</h3>    
+ <div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScripton&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src = "https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat"/>
+ </div>
+
+ <h3>Stack</h3>
+ <div>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/>
+ </div>
+
+## 😁 My Stats  
 <table width="100%">
  <tr>
   <td valign="top" width="50%">
     <img src="https://github-readme-stats.vercel.app/api?username=kimdodo97&show_icons=true&theme=transparent" width="400">
   </td>
   <td valign="top" width="50%">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimdodo97&hide_border=true&layout=compact" width="400">
+   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdud326" width="400">
   </td>
  </tr>
 </table>  
