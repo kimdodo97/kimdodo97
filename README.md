@@ -2,10 +2,9 @@
 
 # DOYOUNG KIM
 Hi there! Welcome to my Github!<br>
-I'm a solution developer who uses vision AI to develop!.<br>
 
 ## 🎓 Education
-- Hankuk University of Foreign Studies,Computer and Electronic Systems Engineering, graduate
+- Computer and Electronic Systems Engineering, graduate
 
 ## 📫 How to reach me
 <a href="mailto:jungms4536@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -14,19 +13,16 @@ I'm a solution developer who uses vision AI to develop!.<br>
 <a href="https://www.linkedin.com/in/%EB%8F%84%EC%98%81-%EA%B9%80-847461245/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 
 
- ## 🔭 I’m currently working on ...
-  - Developing a marine aquaculture automation system using vision AI
-  - Development of real-time breeding information monitoring system using vision AI
-
 ## 🔥 Experience
-- A researcher at Hankuk University of Foreign Studies on Embedded Systems Deep Learning [21.07-22.04]
+- A researcher on Embedded Systems Deep Learning [21.07-22.04]
 - ASK 2022 Implementation of Yolov3-tiny Object Detection Deep Learning Model over RISC-V Virtual Platform
 - NLP Developer of Capstone Project in Hankuk University of Foreign Studies [22.03 ~ 22.06]
-- JJAndCompanies R&D Team Assistant Engineer (AI Vision Development) [23.01 -] 
+- JJAndCompanies R&D Team Assistant Engineer (AI Vision Development) [23.01 - 234.03]
+ 
 
 ## 🏆 Awards
 - Best Paper in 9th International Conference on Advanced Engineering and ICT-Convergence (ICAEIC-2022)
-- 2022 Capstone Design in Hankuk University of Foreign Studies 1st Place (31 teams)
+- 2022 Capstone Design 1st Place (31 teams)
 
 ## 🛠 Skills
  <h3>Language</h3>    
