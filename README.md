@@ -1,10 +1,15 @@
 <img align='right' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjungms4536%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7">
 
 # DOYOUNG KIM
-Hi there! Welcome to my Github!<br>
+- 신입 백엔드 개발자 김도영입니다. 필요에 따라 React 를 활용한 **Admin** 개발 업무도 가능합니다.
+- C#, Python, Java 등 다양한 언어를 경험하고 **새로운 기술을 두려워 하지 않습니다**
+- **고객의 편의성**을 최우선으로 고려합니다.
+- **AI 생태계를 이해**하며 모델러와 소통이 가능합니다.
+- 소규모 스타트업에서 기획부터 개발, 외부 업체 컨텍을 경험을 통해 **업무 습득력**이 빠릅니다.
+- 누구나 이해할 수 있는 코드를 개발하고자 노력하며, 테스트의 중요성을 강조합니다.
 
 ## 🎓 Education
-- Computer and Electronic Systems Engineering, graduate
+- Hankuk University of Foreign Studies, Computer and Electronic Systems Engineering, graduate
 
 ## 📫 How to reach me
 <a href="mailto:jungms4536@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -44,15 +49,3 @@ Hi there! Welcome to my Github!<br>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/>
  </div>
-
-## 😁 My Stats  
-<table width="100%">
- <tr>
-  <td valign="top" width="50%">
-    <img src="https://github-readme-stats.vercel.app/api?username=kimdodo97&show_icons=true&theme=transparent" width="400">
-  </td>
-  <td valign="top" width="50%">
-   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdud326" width="400">
-  </td>
- </tr>
-</table>  
