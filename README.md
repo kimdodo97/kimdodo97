@@ -49,3 +49,8 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/>
  </div>
+
+## 📃 Best Blog Post
+<a href="https://developer-dodo.tistory.com/entry/Spring-%EC%99%B8%EB%B6%80-API-%ED%98%B8%EC%B6%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9Cfeat-RestClientRestClientTest" target="_blank">[Spring] 외부 API 호출 테스트 코드(feat. RestClient&RestClientTest)
+</a>
+
